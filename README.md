@@ -1,0 +1,8 @@
+## Simple typescript
+
+![](<https://www.manejandodatos.es/wp-content/uploads/2015/03/typescript.png>)
+
+Playing with type day by day :tada: :tada: :tada:
+
+
+
