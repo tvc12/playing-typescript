@@ -4,5 +4,5 @@
 
 Playing with type day by day :tada: :tada: :tada:
 
-
-
+## Licences
+[Apache License 2.0](https://github.com/tvc12/playing-typescript/blob/master/LICENSE)
